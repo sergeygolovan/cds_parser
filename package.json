@@ -1,0 +1,26 @@
+{
+  "name": "cds_parser",
+  "version": "0.0.1",
+  "description": "SAP HANA CDS language parser",
+  "main": "index.js",
+  "dependencies": {
+    "antlr4": "^4.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergeygolovan/cds_parser.git"
+  },
+  "keywords": [
+    "cds"
+  ],
+  "author": "s.golovan@bdo.ru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergeygolovan/cds_parser/issues"
+  },
+  "homepage": "https://github.com/sergeygolovan/cds_parser#readme"
+}
